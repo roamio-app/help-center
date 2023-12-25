@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Contact Support",
       "url": "mailto:support@roamio.io"
     }
   ],
@@ -26,23 +26,24 @@
     "url": "https://get.roamio.io"
   },
   "primaryTab": {
-    "name": "Home"
+    "name": ""
   },
-  "tabs": [
+  "tabs": [],
+  "anchors": [
+    {
+      "name": "Home",
+      "icon": "home",
+      "url": "/welcome"
+    },
     {
       "name": "FAQ",
-      "url": "faq"
+      "icon": "question-mark",
+      "url": "/faq"
     },
     {
       "name": "Tutorials",
-      "url": "tutorials"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Tutorials",
       "icon": "book-open-cover",
-      "url": "tutorials"
+      "url": "/tutorials"
     },
     {
       "name": "Reddit Community",
