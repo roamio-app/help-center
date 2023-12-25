@@ -25,7 +25,6 @@
     "name": "Download Roamio",
     "url": "https://get.roamio.io"
   },
-  
   "tabs": [
     {
       "name": "FAQ",
@@ -56,7 +55,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["quickstart", "development"]
+      "pages": ["welcome", "quickstart", "development"]
     },
     {
       "group": "Essentials",
