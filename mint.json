@@ -11,8 +11,8 @@
     "light": "#FFA875",
     "dark": "#4DBBFF",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#FF914D",
+      "to": "#4DBBFF"
     }
   },
   "topbarLinks": [
@@ -29,27 +29,28 @@
     {
       "name": "FAQ",
       "url": "faq"
-    },
-    {
-      "name": "Tutorials",
-      "url": "tutorials"
     }
   ],
   "anchors": [
     {
       "name": "Tutorials",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "tutorials"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Reddit Community",
+      "icon": "reddit",
+      "url": "https://www.reddit.com/r/roamio/"
+    },
+    {
+      "name": "Discord Community",
+      "icon": "discord",
+      "url": "https://discord.gg/jStds2jDH"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://get.roamio.io/blog"
     }
   ],
   "navigation": [
@@ -75,8 +76,9 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "instagram": "https://www.instagram.com/roamio.io/",
+    "twitter": "https://twitter.com/RoamioHQ",
+    "facebook": "https://www.facebook.com/roamio.io",
+    "linkedin": "https://www.linkedin.com/company/roamio-app"
   }
 }
