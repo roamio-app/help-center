@@ -26,29 +26,23 @@
     "url": "https://get.roamio.io"
   },
   "primaryTab": {
-    "name": ""
+    "name": "Home"
   },
-  "tabs": [],
-  "anchors": [
-    {
-      "name": "Home",
-      "icon": "house",
-      "url": "../welcome"
-    },
+  "tabs": [
     {
       "name": "FAQ",
-      "icon": "comment-question",
       "url": "/frequently-asked-questions/introduction"
     },
     {
       "name": "Tutorials",
-      "icon": "book-open-cover",
       "url": "#/tutorials"
-    },
+    }
+  ],
+  "anchors": [
     {
       "name": "What's New",
       "icon": "sparkles",
-      "url": "/whats_new"
+      "url": "https://get.roamio.io/whats_new"
     },
     {
       "name": "Blog",
