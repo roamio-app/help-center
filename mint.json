@@ -48,7 +48,7 @@
     {
       "name": "What's New",
       "icon": "sparkles",
-      "url": "https://help.roamio.io/whats_new"
+      "url": "whats_new"
     },
     {
       "name": "Blog",
@@ -73,14 +73,6 @@
     {
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
     }
   ],
   "footerSocials": {
