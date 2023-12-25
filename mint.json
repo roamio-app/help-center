@@ -67,6 +67,10 @@
     {
       "group": "Essentials",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+    },
+    {
+      "group": "Tutorials",
+      "pages": ["tutorials/introduction", "tutorials/creating-a-new-page", "tutorials/adding-a-link", "tutorials/adding-an-image", "tutorials/adding-a-video", "tutorials/adding-a-code-block", "tutorials/adding-a-table", "tutorials/adding-a-task-list", "tutorials/adding-a-todo", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer", "tutorials/adding-a-kanban-board", "tutorials/adding-a-timer"]
     }
   ],
   "footerSocials": {
