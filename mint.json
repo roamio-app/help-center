@@ -29,6 +29,10 @@
     {
       "name": "FAQ",
       "url": "faq"
+    },
+    {
+      "name": "Tutorials",
+      "url": "tutorials"
     }
   ],
   "anchors": [
