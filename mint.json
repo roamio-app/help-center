@@ -33,17 +33,17 @@
     {
       "name": "Home",
       "icon": "house",
-      "url": "welcome"
+      "url": "../welcome"
     },
     {
       "name": "FAQ",
       "icon": "comment-question",
-      "url": "frequently-asked-questions"
+      "url": "/frequently-asked-questions/introduction"
     },
     {
       "name": "Tutorials",
       "icon": "book-open-cover",
-      "url": "faq-preference"
+      "url": "#/tutorials"
     },
     {
       "name": "What's New",
