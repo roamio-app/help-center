@@ -46,25 +46,25 @@
       "url": "tutorials"
     },
     {
-      "name": "Reddit Community",
-      "icon": "reddit",
-      "url": "https://www.reddit.com/r/roamio/"
-    },
-    {
-      "name": "Discord Community",
-      "icon": "discord",
-      "url": "https://discord.gg/jStds2jDH"
+      "name": "What's New",
+      "icon": "sparkles",
+      "url": "https://help.roamio.io/whats_new"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://get.roamio.io/blog"
+    },
+    {
+      "name": "Community",
+      "icon": "reddit",
+      "url": "https://www.reddit.com/r/roamio/"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["welcome", "quickstart", "development"]
+      "pages": ["quickstart", "development"]
     },
     {
       "group": "Essentials",
