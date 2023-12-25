@@ -31,11 +31,11 @@
   "tabs": [
     {
       "name": "FAQ",
-      "url": "/frequently-asked-questions/introduction"
+      "url": "frequently-asked-questions/introduction"
     },
     {
       "name": "Tutorials",
-      "url": "/tutorials/introduction"
+      "url": "tutorials/introduction"
     }
   ],
   "anchors": [
