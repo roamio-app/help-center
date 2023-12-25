@@ -32,12 +32,12 @@
   "anchors": [
     {
       "name": "Home",
-      "icon": "home",
+      "icon": "house",
       "url": "/welcome"
     },
     {
       "name": "FAQ",
-      "icon": "question-mark",
+      "icon": "comment-question",
       "url": "/faq"
     },
     {
