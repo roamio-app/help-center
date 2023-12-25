@@ -31,11 +31,11 @@
   "tabs": [
     {
       "name": "FAQ",
-      "url": "/frequently-asked-questions/introduction"
+      "url": "frequently-asked-questions"
     },
     {
       "name": "Tutorials",
-      "url": "#/tutorials"
+      "url": "tutorials"
     }
   ],
   "anchors": [
@@ -63,10 +63,6 @@
     {
       "group": "Essentials",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
     }
   ],
   "footerSocials": {
