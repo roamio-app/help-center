@@ -33,17 +33,17 @@
     {
       "name": "Home",
       "icon": "house",
-      "url": "welcome"
+      "url": ""
     },
     {
       "name": "FAQ",
       "icon": "comment-question",
-      "url": "faq"
+      "url": "faq/faq"
     },
     {
       "name": "Tutorials",
       "icon": "book-open-cover",
-      "url": "tutorials"
+      "url": "tutorials/tutorials"
     },
     {
       "name": "Reddit Community",
