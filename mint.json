@@ -25,13 +25,11 @@
     "name": "Download Roamio",
     "url": "https://get.roamio.io"
   },
-  "primaryTab": {
-    "name": "Home"
-  },
+  
   "tabs": [
     {
       "name": "FAQ",
-      "url": "frequently-asked-questions/introduction"
+      "url": "frequently-asked-questions"
     },
     {
       "name": "Tutorials",
