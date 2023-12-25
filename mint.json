@@ -48,7 +48,7 @@
     {
       "name": "What's New",
       "icon": "sparkles",
-      "url": "whats_new"
+      "url": "/whats_new"
     },
     {
       "name": "Blog",
