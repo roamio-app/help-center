@@ -25,6 +25,9 @@
     "name": "Download Roamio",
     "url": "https://get.roamio.io"
   },
+  "primaryTab": {
+    "name": "Home"
+  },
   "tabs": [
     {
       "name": "FAQ",
