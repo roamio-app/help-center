@@ -5,11 +5,11 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#FF914D",
+    "light": "#FFA875",
+    "dark": "#4DBBFF",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -18,22 +18,26 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support"
+      "url": "mailto:support@roamio.io"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Download Roamio",
+    "url": "https://get.roamio.io"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "FAQ",
+      "url": "faq"
+    },
+    {
+      "name": "Tutorials",
+      "url": "tutorials"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Tutorials",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
