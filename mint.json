@@ -38,12 +38,12 @@
     {
       "name": "FAQ",
       "icon": "comment-question",
-      "url": "faq"
+      "url": "frequently-asked-questions"
     },
     {
       "name": "Tutorials",
       "icon": "book-open-cover",
-      "url": "tutorials"
+      "url": "api-reference"
     },
     {
       "name": "What's New",
