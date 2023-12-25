@@ -33,17 +33,17 @@
     {
       "name": "Home",
       "icon": "house",
-      "url": "https://help.roamio.io/welcome"
+      "url": "welcome"
     },
     {
       "name": "FAQ",
       "icon": "comment-question",
-      "url": "https://help.roamio.io/faq"
+      "url": "faq"
     },
     {
       "name": "Tutorials",
       "icon": "book-open-cover",
-      "url": "https://help.roamio.io/tutorials"
+      "url": "tutorials"
     },
     {
       "name": "Reddit Community",
