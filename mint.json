@@ -64,7 +64,11 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["welcome", "quickstart", "development"]
+      "pages": [
+        "welcome", 
+        "quickstart", 
+        "development"
+      ]
     },
     {
       "group": "Essentials",
@@ -105,7 +109,7 @@
     {
       "group": "What's New",
       "pages": [
-        "whats-new"
+        "whats-new/whats-new"
       ]
     }
   ],
