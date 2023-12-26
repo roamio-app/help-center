@@ -48,7 +48,7 @@
     {
       "name": "What's New",
       "icon": "sparkles",
-      "url": "https://get.roamio.io/whats-new"
+      "url": "whats-new"
     },
     {
       "name": "Blog",
@@ -100,6 +100,12 @@
         "frequently-asked-questions/what-is-roamio",
         "frequently-asked-questions/what-is-roamio",
         "frequently-asked-questions/what-is-roamio"
+      ]
+    },
+    {
+      "group": "What's New",
+      "pages": [
+        "whats-new"
       ]
     }
   ],
