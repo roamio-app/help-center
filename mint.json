@@ -17,13 +17,19 @@
   },
   "topbarLinks": [
     {
-      "name": "Contact Support",
+      "name": "Email Support",
       "url": "mailto:support@roamio.io"
     }
   ],
   "topbarCtaButton": {
-    "name": "Download Roamio",
+    "name": "Get Roamio",
     "url": "https://get.roamio.io"
+  },
+  "footerSocials": {
+    "instagram": "https://www.instagram.com/roamio.io/",
+    "twitter": "https://twitter.com/RoamioHQ",
+    "facebook": "https://www.facebook.com/roamio.io",
+    "linkedin": "https://www.linkedin.com/company/roamio-app"
   },
   "primaryTab": {
     "name": ""
@@ -33,12 +39,12 @@
     {
       "name": "Home",
       "icon": "house",
-      "url": "welcome"
+      "url": "get-started/welcome"
     },
     {
       "name": "FAQ",
       "icon": "comment-question",
-      "url": "frequently-asked-questions"
+      "url": "faq"
     },
     {
       "name": "Tutorials",
@@ -65,44 +71,14 @@
     {
       "group": "Get Started",
       "pages": [
-        "welcome", 
-        "quickstart", 
-        "development"
+        "get-started/welcome", 
+        "get-started/onboarding"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "FAQ",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation"
-      ]
-    },
-    {
-      "group": "Tutorials",
-      "pages": [
-        "tutorials/introduction", 
-        "tutorials/creating-a-new-page", 
-        "tutorials/adding-a-link", 
-        "tutorials/adding-an-image", 
-        "tutorials/adding-a-video", 
-        "tutorials/adding-a-code-block", 
-        "tutorials/adding-a-table", 
-        "tutorials/adding-a-task-list", 
-        "tutorials/adding-a-todo", 
-        "tutorials/adding-a-kanban-board", 
-        "tutorials/adding-a-timer", 
-        "tutorials/adding-a-kanban-board", 
-        "tutorials/adding-a-timer"
-      ]
-    },
-    {
-      "group": "Frequently Asked Questions",
-      "pages": [
-        "frequently-asked-questions/introduction",
-        "frequently-asked-questions/more-questions"
+        "faq/faq"
       ]
     },
     {
@@ -110,12 +86,62 @@
       "pages": [
         "whats-new/whats-new"
       ]
+    },
+    {
+      "group": "Tutorials",
+      "pages": [
+        "tutorials/introduction",
+        {
+          "group": "Maps and Live Data",
+          "pages": [
+            "tutorials/maps-live-data/markdown",
+            "tutorials/maps-live-data/code",
+            "tutorials/maps-live-data/images",
+            "tutorials/maps-live-data/settings",
+            "tutorials/maps-live-data/navigation"
+          ]
+        },
+        {
+          "group": "Community",
+          "pages": [
+            "tutorials/community/markdown",
+            "tutorials/community/code",
+            "tutorials/community/images",
+            "tutorials/community/settings",
+            "tutorials/community/navigation"
+          ]
+        },
+        {
+          "group": "Friends and Sharing",
+          "pages": [
+            "tutorials/friends-sharing/markdown",
+            "tutorials/friends-sharing/code",
+            "tutorials/friends-sharing/images",
+            "tutorials/friends-sharing/settings",
+            "tutorials/friends-sharing/navigation"
+          ]
+        },
+        {
+          "group": "Personal List",
+          "pages": [
+            "tutorials/personal-list/markdown",
+            "tutorials/personal-list/code",
+            "tutorials/personal-list/images",
+            "tutorials/personal-list/settings",
+            "tutorials/personal-list/navigation"
+          ]
+        },
+        {
+          "group": "Plan a Trip",
+          "pages": [
+            "tutorials/trip-planning/markdown",
+            "tutorials/trip-planning/code",
+            "tutorials/trip-planning/images",
+            "tutorials/trip-planning/settings",
+            "tutorials/trip-planning/navigation"
+          ]
+        }
+      ]
     }
-  ],
-  "footerSocials": {
-    "instagram": "https://www.instagram.com/roamio.io/",
-    "twitter": "https://twitter.com/RoamioHQ",
-    "facebook": "https://www.facebook.com/roamio.io",
-    "linkedin": "https://www.linkedin.com/company/roamio-app"
-  }
+  ]
 }
