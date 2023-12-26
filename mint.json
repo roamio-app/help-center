@@ -26,24 +26,25 @@
     "url": "https://get.roamio.io"
   },
   "primaryTab": {
-    "name": "Home"
+    "name": ""
   },
-  "tabs": [
+  "tabs": [],
+  "anchors": [
+    {
+      "name": "Home",
+      "icon": "house",
+      "url": "welcome"
+    },
     {
       "name": "FAQ",
-      "icon": "question",
+      "icon": "comment-question",
       "url": "frequently-asked-questions"
     },
     {
       "name": "Tutorials",
+      "icon": "arrow-progress",
       "url": "tutorials"
     },
-    {
-      "name": "Essentials",
-      "url": "essentials"
-    }
-  ],
-  "anchors": [
     {
       "name": "What's New",
       "icon": "sparkles",
@@ -91,6 +92,14 @@
         "tutorials/adding-a-timer", 
         "tutorials/adding-a-kanban-board", 
         "tutorials/adding-a-timer"
+      ]
+    },
+    {
+      "group": "Frequently Asked Questions",
+      "pages": [
+        "frequently-asked-questions/what-is-roamio",
+        "frequently-asked-questions/what-is-roamio",
+        "frequently-asked-questions/what-is-roamio"
       ]
     }
   ],
