@@ -47,11 +47,6 @@
       "url": "faq"
     },
     {
-      "name": "Tutorials",
-      "icon": "arrow-progress",
-      "url": "tutorials"
-    },
-    {
       "name": "What's New",
       "icon": "sparkles",
       "url": "whats-new"
