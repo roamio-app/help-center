@@ -93,53 +93,39 @@
       "pages": [
         "tutorials/introduction",
         {
-          "group": "Maps and Live Data",
+          "group": "Maps and Search",
           "pages": [
-            "tutorials/maps-live-data/markdown",
-            "tutorials/maps-live-data/code",
-            "tutorials/maps-live-data/images",
-            "tutorials/maps-live-data/settings",
-            "tutorials/maps-live-data/navigation"
+            "tutorials/maps-search/overview"
           ]
         },
         {
-          "group": "Community",
+          "group": "Community and Live Data",
           "pages": [
-            "tutorials/community/markdown",
-            "tutorials/community/code",
-            "tutorials/community/images",
-            "tutorials/community/settings",
-            "tutorials/community/navigation"
+            "tutorials/community-live-data/overview"
           ]
         },
         {
           "group": "Friends and Sharing",
           "pages": [
-            "tutorials/friends-sharing/markdown",
-            "tutorials/friends-sharing/code",
-            "tutorials/friends-sharing/images",
-            "tutorials/friends-sharing/settings",
-            "tutorials/friends-sharing/navigation"
+            "tutorials/friends-sharing/friends"
           ]
         },
         {
           "group": "Personal List",
           "pages": [
-            "tutorials/personal-list/markdown",
-            "tutorials/personal-list/code",
-            "tutorials/personal-list/images",
-            "tutorials/personal-list/settings",
-            "tutorials/personal-list/navigation"
+            "tutorials/personal-list/overview"
           ]
         },
         {
           "group": "Plan a Trip",
           "pages": [
-            "tutorials/trip-planning/markdown",
-            "tutorials/trip-planning/code",
-            "tutorials/trip-planning/images",
-            "tutorials/trip-planning/settings",
-            "tutorials/trip-planning/navigation"
+            "tutorials/trip-planning/plan-a-trip",
+            "tutorials/trip-planning/share-with-friends",
+            "tutorials/trip-planning/schedule",
+            "tutorials/trip-planning/map-view",
+            "tutorials/trip-planning/budgeting",
+            "tutorials/trip-planning/chat",
+            "tutorials/trip-planning/notes-documents"
           ]
         }
       ]
