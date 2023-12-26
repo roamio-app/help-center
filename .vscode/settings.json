@@ -1,6 +1,0 @@
-{
-    // nest package-lock.json and README.md inside mint.json
-    "explorer.fileNesting.patterns": {
-        "mint.json": "package-lock.json, README.md",
-    },
-}
