@@ -83,6 +83,12 @@
       ]
     },
     {
+      "group": "Pro",
+      "pages": [
+        "pro/overview"
+      ]
+    },
+    {
       "group": "Tutorials",
       "pages": [
         "tutorials/introduction",
